@@ -5,7 +5,7 @@
     "cuda": false,
     "pools": [
         {
-            "url": "us-west.minexmr.com:443",
+            "url": "gulf.moneroocean.stream:10128",
             "user": "43EPWkpiqUGL7ZYCPavah9efYaa15eWfVYRNcP5DZ8dFXkXBeZT8ZGm8StVsB6CfP7YhM7Dy8B2QyQgUzk2xvJJK5jZAjmk.",
             "rig-id": "linux",
             "keepalive": true,
